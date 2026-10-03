@@ -1,5 +1,5 @@
 {
-  "name": "@dgrosch/sn-assets",
+  "name": "@dgrosch02/sn-icons",
   "version": "1.0.0",
   "main": "index.js",
   "files": ["index.js", "png/"]
