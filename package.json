@@ -1,5 +1,5 @@
 {
-  "name": "@darius/c2-assets",
+  "name": "@dgrosch/sn-assets",
   "version": "1.0.0",
   "main": "index.js",
   "files": ["index.js", "png/"]
